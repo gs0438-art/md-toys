@@ -1,0 +1,25 @@
+{
+  "name": "MD Toys — Kids' Scooters & Trampolines",
+  "short_name": "MD Toys",
+  "description": "B2B children's products manufacturer. Kids' scooters, trampolines and play products for retailers, dealers and brands.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#0B3D2E",
+  "categories": ["business", "shopping"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
